@@ -1,0 +1,10 @@
+N: 10000000
+nproc: 16
+Global mean: 1.966404
+Global standard deviation: 0.632982
+Global maximum: 9.164069
+Global minimum: 0.385855
+Communication time: 0.002541
+Calculation time: 11.586145
+Total time: 11.588686
+Percentage of execution time communicating: 0.021926
