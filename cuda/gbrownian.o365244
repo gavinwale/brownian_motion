@@ -1,0 +1,1 @@
+/cm/local/apps/slurm/var/spool/job365244/slurm_script: line 13: 24705 Segmentation fault      ./runBrownianCuda
